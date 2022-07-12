@@ -8,7 +8,6 @@ const submitDiv = document.getElementById('submitBtn');
 const greetingDiv = document.getElementById('greeting')
 const userName = document.getElementById('name')
 const baseURL = `https://f24-alan.herokuapp.com/`
-import axios from 'axios'
 
 
 fortuneBtn.addEventListener("click", () => {
