@@ -7,7 +7,7 @@ const questionDiv = document.getElementById('question');
 const submitDiv = document.getElementById('submitBtn');
 const greetingDiv = document.getElementById('greeting')
 const userName = document.getElementById('name')
-const baseURL = `https://td-capstone.herokuapp.com`
+const baseURL = `https://f24-alan.herokuapp.com/`
 import axios from 'axios'
 
 
